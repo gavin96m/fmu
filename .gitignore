@@ -3,3 +3,6 @@ example/data/
 *.pkl
 *.csv
 *.npy
+*.png
+*.zip
+*.pyc
