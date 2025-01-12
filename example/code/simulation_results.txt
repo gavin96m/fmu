@@ -1,0 +1,114 @@
+Error with Train Simulations: 50, Test Simulations: 10, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 10, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 20, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 10, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 20, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 30, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 20, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 30, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 30, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 40, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 10, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 40, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 40, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 20, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 50, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 50, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 50, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 30, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 60, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 60, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 60, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 40, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 70, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 70, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 70, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 50, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 80, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 80, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 80, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 60, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 90, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 90, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 90, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 100, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 70, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 100, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 100, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 80, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 10, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 10, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 10, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 20, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 90, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 20, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 20, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 30, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 30, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 10, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 50, Test Simulations: 100, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 30, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 40, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 40, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 20, Step Size: 0.01
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 40, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 50, Step Size: 0.2
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 50, Step Size: 0.1
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+Error with Train Simulations: 100, Test Simulations: 50, Step Size: 0.05
+Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx

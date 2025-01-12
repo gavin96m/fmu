@@ -1,0 +1,5 @@
+example/临时/
+example/data/
+*.pkl
+*.csv
+*.npy
