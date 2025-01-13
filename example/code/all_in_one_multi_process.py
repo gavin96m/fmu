@@ -6,13 +6,34 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from fmu_conversion.ks_fmu import Model
 import time
-from concurrent.futures import ThreadPoolExecutor
+# from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ProcessPoolExecutor
+
+class MultiOutputGPModel(gpytorch.models.ExactGP):
+    def __init__(self, train_x, train_y, likelihood):
+        super(MultiOutputGPModel, self).__init__(train_x, train_y, likelihood)
+        self.mean_module = gpytorch.means.MultitaskMean(
+            gpytorch.means.ConstantMean(), num_tasks=train_y.shape[1]
+        )
+        self.covar_module = gpytorch.kernels.MultitaskKernel(
+            gpytorch.kernels.RBFKernel(), num_tasks=train_y.shape[1], rank=1
+        )
+
+    def forward(self, x):
+        mean_x = self.mean_module(x)
+        covar_x = self.covar_module(x)
+        return gpytorch.distributions.MultitaskMultivariateNormal(mean_x, covar_x)
+
 
 # 参数范围设置
-train_simulations_range = range(50, 501, 50)  # 训练集仿真次数范围
-test_simulations_range = range(11, 101, 10)  # 测试集仿真次数范围
-step_size_range = [0.2, 0.1, 0.05, 0.01]  # 时间步长范围
-t_start, t_final = 0, 10  # 仿真时间范围
+# train_simulations_range = range(50, 501, 50)  # 训练集仿真次数范围
+train_simulations_range = [50, 100, 200]  # 训练集仿真次数范围
+# test_simulations_range = range(11, 101, 10)  # 测试集仿真次数范围
+test_simulations_range = [11, 31]# 测试集仿真次数范围
+# step_size_range = [0.2, 0.1, 0.05, 0.01]  # 时间步长范围
+step_size_range = [0.2, 0.1, 0.05]  # 时间步长范围
+# t_start, t_final = 0, 10  # 仿真时间范围
+t_start, t_final = 0, 5  # 仿真时间范围
 log_file = "simulation_results.txt"  # 日志文件路径
 data_dir = os.path.join(os.path.dirname(__file__), './data')
 os.makedirs(data_dir, exist_ok=True)
@@ -113,6 +134,8 @@ def train_and_evaluate(train_simulations, test_simulations, step_size):
             loss.backward()
             optimizer.step()
 
+        print(f"Final training loss after 50 steps: {loss.item()}")
+
         # 评估模型
         model.eval()
         likelihood.eval()
@@ -144,13 +167,22 @@ def train_and_evaluate(train_simulations, test_simulations, step_size):
 
 
 if __name__ == "__main__":
-    with ThreadPoolExecutor(max_workers=4) as executor:
+    with ProcessPoolExecutor(max_workers=2) as executor:
         futures = []
         for train_simulations in train_simulations_range:
             for test_simulations in test_simulations_range:
                 for step_size in step_size_range:
-                    futures.append(executor.submit(train_and_evaluate, train_simulations, test_simulations, step_size))
-
+                    # futures.append(executor.submit(train_and_evaluate, train_simulations, test_simulations, step_size))
+                    # 只在日志中没出现过的组合才执行
+                    if not is_already_completed(train_simulations, test_simulations, step_size):
+                        futures.append(
+                            executor.submit(
+                                train_and_evaluate,
+                                train_simulations,
+                                test_simulations,
+                                step_size
+                            )
+                        )
         for future in futures:
             future.result()  # 确保所有任务完成
 

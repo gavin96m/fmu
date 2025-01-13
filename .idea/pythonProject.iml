@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv37" />
     </content>
-    <orderEntry type="jdk" jdkName="fmu" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12.4 WSL (Ubuntu): (/home/gavin/miniconda3/bin/python3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

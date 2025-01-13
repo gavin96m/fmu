@@ -58,7 +58,7 @@ class Model:
         return Fmi2Status.ok
 
     def fmi2EnterInitializationMode(self):
-        return Fmi2Status.ok
+        # return Fmi2Status.ok
 
     def fmi2ExitInitializationMode(self):
         self._update_outputs()
